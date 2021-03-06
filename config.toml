@@ -1,9 +1,9 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "danorama"
-theme = "danotheme"
-author = "danorama GmbH"
-copyright = "danorama GmbH"
+title = "mytitle"
+theme = "dh-bulma-theme"
+author = "Dominik Hattrup"
+copyright = "Dominik Hattrup"
 
 [menu]
   [[menu.main]]
